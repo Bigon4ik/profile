@@ -1,0 +1,19 @@
+.mainBlock {
+    height: 100vh;
+    background-color: bisque;
+    display: flex;
+
+
+}
+
+
+.text {
+    width: 300px;
+}
+
+.photo {
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    border-radius: 20px;
+}
