@@ -1,27 +1,27 @@
 
-.skillBlock{
-    border: 1px solid;
-    height: 100vh;
-    width: 80%;
-    margin: 0 auto;
-    background-color: aquamarine;
+/*.skillBlock{*/
+/*    border: 1px solid;*/
+/*    height: 100vh;*/
+/*    width: 80%;*/
+/*    margin: 0 auto;*/
+/*    background-color: aquamarine;*/
 
-}
-.skillContainer{
-    flex-direction: column;
-    justify-content: flex-start;
-
-
-}
-.title{
-    background-color: dimgrey;
+/*}*/
+/*.skillContainer{*/
+/*    flex-direction: column;*/
+/*    justify-content: flex-start;*/
 
 
-}
+/*}*/
+/*.title{*/
+/*    background-color: dimgrey;*/
+
+
+/*}*/
 .skill{
 
-    border: 1px solid;
-    width: 100%;
+background-color: dimgrey;
+    width: 250px;
 
 
 }

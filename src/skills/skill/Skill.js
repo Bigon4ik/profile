@@ -1,18 +1,15 @@
 import style from './Skill.module.css';
-import styleContainer from '../common/style/Container.module.css';
 
-function Skill() {
+function Skill(props) {
     return (
 
-        <div className={style.skillBlock}>
-            <div className={`
-            ${styleContainer.container}
-            ${style.skillsContainer}`}>
-                <h2 className={style.title}>Skills</h2>
-                <div className={style.skills}>
-                    <p>12</p>
-                </div>
-            </div>
+        <div className={style.skill}>
+            <div className={style.icon}></div>
+            <h3>{props.title}</h3>
+            <span className={style.discription}>
+                {props.discription}
+            </span>
+
 
         </div>
     );
