@@ -22,5 +22,6 @@ function Skills() {
         </div>
     );
 }
-
+10+10+6+10+9+9+9+9+8+8+9+10
+40+45+6+16=107
 export default Skills;
