@@ -11,7 +11,6 @@ function Skills() {
             ${style.skillsContainer}`}>
                 <h2 className={style.title}>Skills</h2>
                 <div className={style.skills}>
-                    <p>12</p>
                     <Skill title={"js"} discription={"fdsfdsf"}/>
                     <Skill title={"css"} discription={"dfsd"}/>
                     <Skill title={"React"} discription={"1fdsffdsf"}/>
@@ -22,6 +21,6 @@ function Skills() {
         </div>
     );
 }
-10+10+6+10+9+9+9+9+8+8+9+10
-40+45+6+16=107
+// 10+10+6+10+9+9+9+9+8+8+9+10
+// 40+45+6+16=107
 export default Skills;
