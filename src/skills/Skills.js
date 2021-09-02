@@ -13,7 +13,7 @@ function Skills() {
                 <div className={style.skills}>
                     <Skill title={"js"} discription={"fdsfdsf"}/>
                     <Skill title={"css"} discription={"dfsd"}/>
-                    <Skill title={"React"} discription={"1fdsffdsf"}/>
+                    <Skill title={"React"} discription={"1fdsffds21f"}/>
 
                 </div>
             </div>
