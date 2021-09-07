@@ -11,7 +11,7 @@ function Skills() {
             ${style.skillsContainer}`}>
                 <h2 className={style.title}>Skills</h2>
                 <div className={style.skills}>
-                    <Skill title={"js"} discription={"fdsfdsf"}/>
+                    <Skill title={"js"} discription={"ffdsf"}/>
                     <Skill title={"css"} discription={"dfsd"}/>
                     <Skill title={"React"} discription={"1fdsffds21f"}/>
 
